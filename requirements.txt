@@ -15,7 +15,7 @@ isort==5.6.4
 jsonschema==3.2.0
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
-pylint==2.6.0
+pylint==2.6.1
 pymisp==2.4.134
 pymongo==3.11.0
 pyrsistent==0.17.3
