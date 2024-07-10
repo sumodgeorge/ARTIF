@@ -29,3 +29,4 @@ toml==0.10.2
 tzlocal==2.1
 urllib3==1.26.1
 wrapt==1.12.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
